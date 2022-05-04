@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="313px" preserveAspectRatio="none" style="width:2968px;height:313px;" version="1.1" viewBox="0 0 2968 313" width="2968px" zoomAndPan="magnify"><defs><filter height="300%" id="fi1pf1chufjo9" width="300%" x="-1" y="-1"><feGaussianBlur result="blurOut" stdDeviation="2.0"/><feColorMatrix in="blurOut" result="blurOut2" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 .4 0"/><feOffset dx="4.0" dy="4.0" in="blurOut2" result="blurOut3"/><feBlend in="SourceGraphic" in2="blurOut3" mode="normal"/></filter></defs><g><!--MD5=[ff5c38fa2c0127b1411f2186b1c85bb3]
+class nitrogenhotel.backend--><a href="nitrogenhotel/backend/package-summary.html" target="_top" title="nitrogenhotel/backend/package-summary.html" xlink:actuate="onRequest" xlink:href="nitrogenhotel/backend/package-summary.html" xlink:show="new" xlink:title="nitrogenhotel/backend/package-summary.html" xlink:type="simple"><rect codeLine="40" fill="#FEFECE" filter="url(#fi1pf1chufjo9)" height="22.5881" id="nitrogenhotel.backend" style="stroke: #A80036; stroke-width: 1.5;" width="132" x="992" y="7"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="126" x="995" y="22.3081">nitrogenhotel.backend</text></a><!--MD5=[ca7a7b78fc5a07a9a621f2f64baaf4f6]
+class nitrogenhotel.ui.panels--><a href="nitrogenhotel/ui/panels/package-summary.html" target="_top" title="nitrogenhotel/ui/panels/package-summary.html" xlink:actuate="onRequest" xlink:href="nitrogenhotel/ui/panels/package-summary.html" xlink:show="new" xlink:title="nitrogenhotel/ui/panels/package-summary.html" xlink:type="simple"><rect codeLine="42" fill="#FEFECE" filter="url(#fi1pf1chufjo9)" height="22.5881" id="nitrogenhotel.ui.panels" style="stroke: #A80036; stroke-width: 1.5;" width="144" x="483" y="90"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="138" x="486" y="105.3081">nitrogenhotel.ui.panels</text></a><!--MD5=[858be043236ed3e9d51fb171a266c238]
+class nitrogenhotel.ui.frames--><a href="nitrogenhotel/ui/frames/package-summary.html" target="_top" title="nitrogenhotel/ui/frames/package-summary.html" xlink:actuate="onRequest" xlink:href="nitrogenhotel/ui/frames/package-summary.html" xlink:show="new" xlink:title="nitrogenhotel/ui/frames/package-summary.html" xlink:type="simple"><rect codeLine="44" fill="#FEFECE" filter="url(#fi1pf1chufjo9)" height="22.5881" id="nitrogenhotel.ui.frames" style="stroke: #A80036; stroke-width: 1.5;" width="144" x="1746" y="90"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="138" x="1749" y="105.3081">nitrogenhotel.ui.frames</text></a><!--MD5=[d611687cd68cdee88c70bdc72fc7b7d2]
+class com.github.lgooddatepicker.optionalusertools--><rect fill="#FEFECE" filter="url(#fi1pf1chufjo9)" height="22.5881" id="com.github.lgooddatepicker.optionalusertools" style="stroke: #A80036; stroke-width: 1.5;" width="270" x="7" y="256"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="264" x="10" y="271.3081">com.github.lgooddatepicker.optionalusertools</text><!--MD5=[f5cbedd878816105c7c73e048890a30d]
+class nitrogenhotel.db.dataaccessobjects--><a href="nitrogenhotel/db/dataaccessobjects/package-summary.html" target="_top" title="nitrogenhotel/db/dataaccessobjects/package-summary.html" xlink:actuate="onRequest" xlink:href="nitrogenhotel/db/dataaccessobjects/package-summary.html" xlink:show="new" xlink:title="nitrogenhotel/db/dataaccessobjects/package-summary.html" xlink:type="simple"><rect codeLine="46" fill="#FEFECE" filter="url(#fi1pf1chufjo9)" height="22.5881" id="nitrogenhotel.db.dataaccessobjects" style="stroke: #A80036; stroke-width: 1.5;" width="210" x="1430" y="90"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="204" x="1433" y="105.3081">nitrogenhotel.db.dataaccessobjects</text></a><!--MD5=[0741b2a1b1db1354c2bec3512a72a17e]
+class nitrogenhotel.db.entries--><a href="nitrogenhotel/db/entries/package-summary.html" target="_top" title="nitrogenhotel/db/entries/package-summary.html" xlink:actuate="onRequest" xlink:href="nitrogenhotel/db/entries/package-summary.html" xlink:show="new" xlink:title="nitrogenhotel/db/entries/package-summary.html" xlink:type="simple"><rect codeLine="48" fill="#FEFECE" filter="url(#fi1pf1chufjo9)" height="22.5881" id="nitrogenhotel.db.entries" style="stroke: #A80036; stroke-width: 1.5;" width="150" x="862" y="256"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="144" x="865" y="271.3081">nitrogenhotel.db.entries</text></a><!--MD5=[b0da632abdb6af98fe8ac164f0c30463]
+class nitrogenhotel.db.exceptions.room--><a href="nitrogenhotel/db/exceptions/room/package-summary.html" target="_top" title="nitrogenhotel/db/exceptions/room/package-summary.html" xlink:actuate="onRequest" xlink:href="nitrogenhotel/db/exceptions/room/package-summary.html" xlink:show="new" xlink:title="nitrogenhotel/db/exceptions/room/package-summary.html" xlink:type="simple"><rect codeLine="50" fill="#FEFECE" filter="url(#fi1pf1chufjo9)" height="22.5881" id="nitrogenhotel.db.exceptions.room" style="stroke: #A80036; stroke-width: 1.5;" width="198" x="959" y="173"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="192" x="962" y="188.3081">nitrogenhotel.db.exceptions.room</text></a><!--MD5=[33f6bdb5a31119c83a051553f8036add]
+class nitrogenhotel.db.exceptions.customer--><a href="nitrogenhotel/db/exceptions/customer/package-summary.html" target="_top" title="nitrogenhotel/db/exceptions/customer/package-summary.html" xlink:actuate="onRequest" xlink:href="nitrogenhotel/db/exceptions/customer/package-summary.html" xlink:show="new" xlink:title="nitrogenhotel/db/exceptions/customer/package-summary.html" xlink:type="simple"><rect codeLine="52" fill="#FEFECE" filter="url(#fi1pf1chufjo9)" height="22.5881" id="nitrogenhotel.db.exceptions.customer" style="stroke: #A80036; stroke-width: 1.5;" width="222" x="1192" y="173"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="216" x="1195" y="188.3081">nitrogenhotel.db.exceptions.customer</text></a><!--MD5=[7677c8e02a74cd6ba5b7a148f1bb2d0f]
+class nitrogenhotel.db.exceptions.booking--><a href="nitrogenhotel/db/exceptions/booking/package-summary.html" target="_top" title="nitrogenhotel/db/exceptions/booking/package-summary.html" xlink:actuate="onRequest" xlink:href="nitrogenhotel/db/exceptions/booking/package-summary.html" xlink:show="new" xlink:title="nitrogenhotel/db/exceptions/booking/package-summary.html" xlink:type="simple"><rect codeLine="54" fill="#FEFECE" filter="url(#fi1pf1chufjo9)" height="22.5881" id="nitrogenhotel.db.exceptions.booking" style="stroke: #A80036; stroke-width: 1.5;" width="216" x="2733" y="173"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="210" x="2736" y="188.3081">nitrogenhotel.db.exceptions.booking</text></a><!--MD5=[84c76d926f06ce784d5dae85ea819fca]
+class nitrogenhotel.utils--><a href="nitrogenhotel/utils/package-summary.html" target="_top" title="nitrogenhotel/utils/package-summary.html" xlink:actuate="onRequest" xlink:href="nitrogenhotel/utils/package-summary.html" xlink:show="new" xlink:title="nitrogenhotel/utils/package-summary.html" xlink:type="simple"><rect codeLine="56" fill="#FEFECE" filter="url(#fi1pf1chufjo9)" height="22.5881" id="nitrogenhotel.utils" style="stroke: #A80036; stroke-width: 1.5;" width="120" x="733" y="173"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="114" x="736" y="188.3081">nitrogenhotel.utils</text></a><!--MD5=[234396e803ff4aa8c0e7fbc7364e23fb]
+class nitrogenhotel.utils.config--><a href="nitrogenhotel/utils/config/package-summary.html" target="_top" title="nitrogenhotel/utils/config/package-summary.html" xlink:actuate="onRequest" xlink:href="nitrogenhotel/utils/config/package-summary.html" xlink:show="new" xlink:title="nitrogenhotel/utils/config/package-summary.html" xlink:type="simple"><rect codeLine="58" fill="#FEFECE" filter="url(#fi1pf1chufjo9)" height="22.5881" id="nitrogenhotel.utils.config" style="stroke: #A80036; stroke-width: 1.5;" width="162" x="1874" y="7"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="156" x="1877" y="22.3081">nitrogenhotel.utils.config</text></a><!--MD5=[33d75468ca42532f1e0bc185de70bc90]
+class org.tomlj--><rect fill="#FEFECE" filter="url(#fi1pf1chufjo9)" height="22.5881" id="org.tomlj" style="stroke: #A80036; stroke-width: 1.5;" width="60" x="1925" y="90"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="54" x="1928" y="105.3081">org.tomlj</text><!--MD5=[d5bf36456f8070ace03bbddb5e2bf93a]
+class nitrogenhotel.db--><a href="nitrogenhotel/db/package-summary.html" target="_top" title="nitrogenhotel/db/package-summary.html" xlink:actuate="onRequest" xlink:href="nitrogenhotel/db/package-summary.html" xlink:show="new" xlink:title="nitrogenhotel/db/package-summary.html" xlink:type="simple"><rect codeLine="60" fill="#FEFECE" filter="url(#fi1pf1chufjo9)" height="22.5881" id="nitrogenhotel.db" style="stroke: #A80036; stroke-width: 1.5;" width="102" x="2101" y="7"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="96" x="2104" y="22.3081">nitrogenhotel.db</text></a><!--MD5=[eb6153959621edfd4cf8b1bed91d29b2]
+class nitrogenhotel.db.exceptions.databasemanager--><a href="nitrogenhotel/db/exceptions/databasemanager/package-summary.html" target="_top" title="nitrogenhotel/db/exceptions/databasemanager/package-summary.html" xlink:actuate="onRequest" xlink:href="nitrogenhotel/db/exceptions/databasemanager/package-summary.html" xlink:show="new" xlink:title="nitrogenhotel/db/exceptions/databasemanager/package-summary.html" xlink:type="simple"><rect codeLine="62" fill="#FEFECE" filter="url(#fi1pf1chufjo9)" height="22.5881" id="nitrogenhotel.db.exceptions.databasemanager" style="stroke: #A80036; stroke-width: 1.5;" width="264" x="2020" y="90"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="258" x="2023" y="105.3081">nitrogenhotel.db.exceptions.databasemanager</text></a><!--MD5=[0d932a41e788c0aa314147cd9c79b212]
+class nitrogenhotel.db.interfaces--><a href="nitrogenhotel/db/interfaces/package-summary.html" target="_top" title="nitrogenhotel/db/interfaces/package-summary.html" xlink:actuate="onRequest" xlink:href="nitrogenhotel/db/interfaces/package-summary.html" xlink:show="new" xlink:title="nitrogenhotel/db/interfaces/package-summary.html" xlink:type="simple"><rect codeLine="64" fill="#FEFECE" filter="url(#fi1pf1chufjo9)" height="22.5881" id="nitrogenhotel.db.interfaces" style="stroke: #A80036; stroke-width: 1.5;" width="168" x="1520" y="173"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="162" x="1523" y="188.3081">nitrogenhotel.db.interfaces</text></a><!--MD5=[13805d06a427ac39f91fb237c07989a8]
+class nitrogenhotel.db.exceptions.admin--><a href="nitrogenhotel/db/exceptions/admin/package-summary.html" target="_top" title="nitrogenhotel/db/exceptions/admin/package-summary.html" xlink:actuate="onRequest" xlink:href="nitrogenhotel/db/exceptions/admin/package-summary.html" xlink:show="new" xlink:title="nitrogenhotel/db/exceptions/admin/package-summary.html" xlink:type="simple"><rect codeLine="66" fill="#FEFECE" filter="url(#fi1pf1chufjo9)" height="22.5881" id="nitrogenhotel.db.exceptions.admin" style="stroke: #A80036; stroke-width: 1.5;" width="204" x="1723" y="173"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="198" x="1726" y="188.3081">nitrogenhotel.db.exceptions.admin</text></a><!--MD5=[6eccf565ccf0bb6ce4ad60077371aa6c]
+class nitrogenhotel.db.exceptions.user--><a href="nitrogenhotel/db/exceptions/user/package-summary.html" target="_top" title="nitrogenhotel/db/exceptions/user/package-summary.html" xlink:actuate="onRequest" xlink:href="nitrogenhotel/db/exceptions/user/package-summary.html" xlink:show="new" xlink:title="nitrogenhotel/db/exceptions/user/package-summary.html" xlink:type="simple"><rect codeLine="68" fill="#FEFECE" filter="url(#fi1pf1chufjo9)" height="22.5881" id="nitrogenhotel.db.exceptions.user" style="stroke: #A80036; stroke-width: 1.5;" width="198" x="1962" y="173"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="192" x="1965" y="188.3081">nitrogenhotel.db.exceptions.user</text></a><!--MD5=[ad25f651bc68aa559b1f91099e2dff1a]
+class nitrogenhotel.db.exceptions.reservation--><a href="nitrogenhotel/db/exceptions/reservation/package-summary.html" target="_top" title="nitrogenhotel/db/exceptions/reservation/package-summary.html" xlink:actuate="onRequest" xlink:href="nitrogenhotel/db/exceptions/reservation/package-summary.html" xlink:show="new" xlink:title="nitrogenhotel/db/exceptions/reservation/package-summary.html" xlink:type="simple"><rect codeLine="70" fill="#FEFECE" filter="url(#fi1pf1chufjo9)" height="22.5881" id="nitrogenhotel.db.exceptions.reservation" style="stroke: #A80036; stroke-width: 1.5;" width="240" x="2195" y="173"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="234" x="2198" y="188.3081">nitrogenhotel.db.exceptions.reservation</text></a><!--MD5=[ae98969ff169246085bc6c8722fbcf5c]
+class nitrogenhotel.db.exceptions.reception--><a href="nitrogenhotel/db/exceptions/reception/package-summary.html" target="_top" title="nitrogenhotel/db/exceptions/reception/package-summary.html" xlink:actuate="onRequest" xlink:href="nitrogenhotel/db/exceptions/reception/package-summary.html" xlink:show="new" xlink:title="nitrogenhotel/db/exceptions/reception/package-summary.html" xlink:type="simple"><rect codeLine="72" fill="#FEFECE" filter="url(#fi1pf1chufjo9)" height="22.5881" id="nitrogenhotel.db.exceptions.reception" style="stroke: #A80036; stroke-width: 1.5;" width="228" x="2470" y="173"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="222" x="2473" y="188.3081">nitrogenhotel.db.exceptions.reception</text></a><!--MD5=[016936f971d35532b1fab4ed70fc58c9]
+class nitrogenhotel.ui.utilsgui--><a href="nitrogenhotel/ui/utilsgui/package-summary.html" target="_top" title="nitrogenhotel/ui/utilsgui/package-summary.html" xlink:actuate="onRequest" xlink:href="nitrogenhotel/ui/utilsgui/package-summary.html" xlink:show="new" xlink:title="nitrogenhotel/ui/utilsgui/package-summary.html" xlink:type="simple"><rect codeLine="74" fill="#FEFECE" filter="url(#fi1pf1chufjo9)" height="22.5881" id="nitrogenhotel.ui.utilsgui" style="stroke: #A80036; stroke-width: 1.5;" width="156" x="542" y="173"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="150" x="545" y="188.3081">nitrogenhotel.ui.utilsgui</text></a><!--MD5=[c1412fee08f7e4520f06f0dc3a960e88]
+class com.github.lgooddatepicker.components--><rect fill="#FEFECE" filter="url(#fi1pf1chufjo9)" height="22.5881" id="com.github.lgooddatepicker.components" style="stroke: #A80036; stroke-width: 1.5;" width="228" x="599" y="256"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="222" x="602" y="271.3081">com.github.lgooddatepicker.components</text><!--MD5=[1eb19317adb91b283f5087b94d9c0c64]
+class com.github.lgooddatepicker.zinternaltools--><rect fill="#FEFECE" filter="url(#fi1pf1chufjo9)" height="22.5881" id="com.github.lgooddatepicker.zinternaltools" style="stroke: #A80036; stroke-width: 1.5;" width="252" x="312" y="256"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="246" x="315" y="271.3081">com.github.lgooddatepicker.zinternaltools</text><!--MD5=[fd2a9b42380167cb634a217bdb676143]
+link nitrogenhotel.backend to nitrogenhotel.ui.panels--><path codeLine="6" d="M991.81,28.79 C893.71,43.71 711.77,72.97 616.46,89.12 " fill="none" id="nitrogenhotel.backend-to-nitrogenhotel.ui.panels" style="stroke: #A80036; stroke-width: 1.0;"/><polygon fill="#A80036" points="611.43,89.98,620.9686,92.4325,616.3608,89.1511,619.6423,84.5433,611.43,89.98" style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[e2d605a25575d7033c8b7028ef4fd64b]
+link nitrogenhotel.ui.panels to nitrogenhotel.backend--><path codeLine="33" d="M627.05,90.39 C726.55,75.25 903.65,46.76 996.99,30.89 " fill="none" id="nitrogenhotel.ui.panels-to-nitrogenhotel.backend" style="stroke: #A80036; stroke-width: 1.0;"/><polygon fill="#A80036" points="1002.19,30.01,992.6445,27.5843,997.2615,30.8528,993.9931,35.4699,1002.19,30.01" style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[fbb7be47c74a7e8f2548ddfb8b528e65]
+link nitrogenhotel.backend to nitrogenhotel.ui.frames--><path codeLine="7" d="M1124.3,27.41 C1264.75,43.07 1590.72,77.81 1740.49,93.07 " fill="none" id="nitrogenhotel.backend-to-nitrogenhotel.ui.frames" style="stroke: #A80036; stroke-width: 1.0;"/><polygon fill="#A80036" points="1745.74,93.6,1737.1994,88.6951,1740.7665,93.0855,1736.3762,96.6527,1745.74,93.6" style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[b110b59e50973d7d190ce074b3b00657]
+link nitrogenhotel.ui.frames to nitrogenhotel.backend--><path codeLine="37" d="M1745.82,91.88 C1600.32,75.66 1274.26,40.94 1129.4,26.27 " fill="none" id="nitrogenhotel.ui.frames-to-nitrogenhotel.backend" style="stroke: #A80036; stroke-width: 1.0;"/><polygon fill="#A80036" points="1124.32,25.75,1132.8745,30.6306,1129.2949,26.2503,1133.6751,22.6707,1124.32,25.75" style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[094a44c009a784968d5d35fee235e0ea]
+link nitrogenhotel.backend to com.github.lgooddatepicker.optionalusertools--><path codeLine="8" d="M991.79,19.25 C880.35,20.61 649.43,31.08 465,90 C340.32,129.83 208.39,218.91 160.62,252.93 " fill="none" id="nitrogenhotel.backend-to-com.github.lgooddatepicker.optionalusertools" style="stroke: #A80036; stroke-width: 1.0;"/><polygon fill="#A80036" points="156.53,255.86,166.1779,253.8806,160.5977,252.9525,161.5258,247.3723,156.53,255.86" style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[e7b4f9a434974f463a12d9b5c82bd46f]
+link nitrogenhotel.backend to nitrogenhotel.db.dataaccessobjects--><path codeLine="9" d="M1119.87,30.01 C1209.55,45.24 1375.04,73.34 1467.69,89.07 " fill="none" id="nitrogenhotel.backend-to-nitrogenhotel.db.dataaccessobjects" style="stroke: #A80036; stroke-width: 1.0;"/><polygon fill="#A80036" points="1472.86,89.95,1464.6477,84.5133,1467.9292,89.1211,1463.3214,92.4025,1472.86,89.95" style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[fcdb86dcc97f72af0554c00daf7636c6]
+link nitrogenhotel.backend to nitrogenhotel.db.entries--><path codeLine="10" d="M1045.8,30.31 C1020.63,53.49 963.45,110.92 941,173 C931.61,198.98 932.93,231.69 934.87,250.73 " fill="none" id="nitrogenhotel.backend-to-nitrogenhotel.db.entries" style="stroke: #A80036; stroke-width: 1.0;"/><polygon fill="#A80036" points="935.43,255.73,938.4028,246.3405,934.8731,250.7611,930.4525,247.2315,935.43,255.73" style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[76a67c7192f87281a8d2e2b02e8b3b12]
+link nitrogenhotel.backend to nitrogenhotel.db.exceptions.room--><path codeLine="11" d="M1058,30.26 C1058,58.42 1058,134.39 1058,167.6 " fill="none" id="nitrogenhotel.backend-to-nitrogenhotel.db.exceptions.room" style="stroke: #A80036; stroke-width: 1.0;"/><polygon fill="#A80036" points="1058,172.91,1062,163.91,1058,167.91,1054,163.91,1058,172.91" style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[6829f76826868f2f216d6dd91c13e524]
+link nitrogenhotel.backend to nitrogenhotel.db.exceptions.customer--><path codeLine="12" d="M1073.7,30.01 C1116.47,58.64 1235.02,137.99 1282.72,169.93 " fill="none" id="nitrogenhotel.backend-to-nitrogenhotel.db.exceptions.customer" style="stroke: #A80036; stroke-width: 1.0;"/><polygon fill="#A80036" points="1287.12,172.87,1281.8503,164.5495,1282.9597,170.0965,1277.4127,171.2059,1287.12,172.87" style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[0c9b792b8629640e1e6539d2d3b2b4a7]
+link nitrogenhotel.backend to nitrogenhotel.db.exceptions.booking--><path codeLine="13" d="M1124.29,23.05 C1235.5,29.94 1466.22,48.29 1657,90 C1689.4,97.08 1695.41,106.83 1728,113 C2160.25,194.77 2277.23,141.25 2716,173 C2719.89,173.28 2723.86,173.58 2727.86,173.88 " fill="none" id="nitrogenhotel.backend-to-nitrogenhotel.db.exceptions.booking" style="stroke: #A80036; stroke-width: 1.0;"/><polygon fill="#A80036" points="2732.94,174.27,2724.262,169.6124,2727.9538,173.8985,2723.6677,177.5903,2732.94,174.27" style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[69b72efeda25c4482da842deeaf8cd0e]
+link nitrogenhotel.utils to nitrogenhotel.db.entries--><path codeLine="14" d="M811.83,196.09 C838.02,210.82 885.44,237.5 913.79,253.44 " fill="none" id="nitrogenhotel.utils-to-nitrogenhotel.db.entries" style="stroke: #A80036; stroke-width: 1.0;"/><polygon fill="#A80036" points="918.17,255.91,912.2955,248.0049,913.8148,253.4539,908.3658,254.9733,918.17,255.91" style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[6740c1e4b0b437817880616d17166e5f]
+link nitrogenhotel.utils.config to org.tomlj--><path codeLine="15" d="M1955,30.09 C1955,44.04 1955,68.68 1955,84.8 " fill="none" id="nitrogenhotel.utils.config-to-org.tomlj" style="stroke: #A80036; stroke-width: 1.0;"/><polygon fill="#A80036" points="1955,89.91,1959,80.91,1955,84.91,1951,80.91,1955,89.91" style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[7499e73c498f1e8eae62b80951729612]
+link nitrogenhotel.db to nitrogenhotel.db.exceptions.databasemanager--><path codeLine="16" d="M2152,30.09 C2152,44.04 2152,68.68 2152,84.8 " fill="none" id="nitrogenhotel.db-to-nitrogenhotel.db.exceptions.databasemanager" style="stroke: #A80036; stroke-width: 1.0;"/><polygon fill="#A80036" points="2152,89.91,2156,80.91,2152,84.91,2148,80.91,2152,89.91" style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[d7b748c6577a26f23995c883ecc6a803]
+link nitrogenhotel.db.dataaccessobjects to nitrogenhotel.db.interfaces--><path codeLine="17" d="M1544.02,113.09 C1556.21,127.4 1577.99,152.97 1591.68,169.04 " fill="none" id="nitrogenhotel.db.dataaccessobjects-to-nitrogenhotel.db.interfaces" style="stroke: #A80036; stroke-width: 1.0;"/><polygon fill="#A80036" points="1594.98,172.91,1592.1979,163.4623,1591.7413,169.1007,1586.1029,168.6441,1594.98,172.91" style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[ebcdf62f8b118ca1083ddd162688d8e0]
+link nitrogenhotel.db.dataaccessobjects to nitrogenhotel.db.exceptions.admin--><path codeLine="18" d="M1572.62,113.01 C1626.47,128.05 1725.28,155.65 1781.98,171.48 " fill="none" id="nitrogenhotel.db.dataaccessobjects-to-nitrogenhotel.db.exceptions.admin" style="stroke: #A80036; stroke-width: 1.0;"/><polygon fill="#A80036" points="1786.99,172.88,1779.4129,166.5881,1782.1776,171.5234,1777.2423,174.288,1786.99,172.88" style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[71432987590692eca47f9d0db156a67e]
+link nitrogenhotel.db.dataaccessobjects to nitrogenhotel.db.entries--><path codeLine="19" d="M1526.92,113.1 C1511.01,133.1 1473.46,176.17 1431,196 C1359.27,229.51 1138.13,251.11 1017.51,260.72 " fill="none" id="nitrogenhotel.db.dataaccessobjects-to-nitrogenhotel.db.entries" style="stroke: #A80036; stroke-width: 1.0;"/><polygon fill="#A80036" points="1012.2,261.14,1021.4911,264.4074,1017.184,260.7401,1020.8513,256.4331,1012.2,261.14" style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[ec6eeeaa91744ff49729ca36fa154b2b]
+link nitrogenhotel.db.dataaccessobjects to nitrogenhotel.db.exceptions.user--><path codeLine="20" d="M1603.23,113.01 C1702.32,128.27 1885.34,156.45 1987.38,172.16 " fill="none" id="nitrogenhotel.db.dataaccessobjects-to-nitrogenhotel.db.exceptions.user" style="stroke: #A80036; stroke-width: 1.0;"/><polygon fill="#A80036" points="1992.48,172.95,1984.1894,167.6334,1987.5376,172.1929,1982.9781,175.5412,1992.48,172.95" style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[6c4639650e550123d11d0bf967a56886]
+link nitrogenhotel.db.dataaccessobjects to nitrogenhotel.db.exceptions.customer--><path codeLine="21" d="M1504.67,113.09 C1461.77,128.07 1383.55,155.38 1338.16,171.22 " fill="none" id="nitrogenhotel.db.dataaccessobjects-to-nitrogenhotel.db.exceptions.customer" style="stroke: #A80036; stroke-width: 1.0;"/><polygon fill="#A80036" points="1333.34,172.91,1343.155,173.7255,1338.0615,171.2646,1340.5224,166.1711,1333.34,172.91" style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[01d7c960ad2cf6d67bb20e09d9541545]
+link nitrogenhotel.db.dataaccessobjects to nitrogenhotel.db.exceptions.booking--><path codeLine="22" d="M1640.18,111.08 C1649.25,111.75 1658.28,112.4 1667,113 C2132.9,144.85 2250.17,140.12 2716,173 C2719.9,173.27 2723.86,173.56 2727.86,173.86 " fill="none" id="nitrogenhotel.db.dataaccessobjects-to-nitrogenhotel.db.exceptions.booking" style="stroke: #A80036; stroke-width: 1.0;"/><polygon fill="#A80036" points="2732.95,174.24,2724.272,169.5824,2727.9638,173.8685,2723.6777,177.5603,2732.95,174.24" style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[595fb5c4041b83b89ac52e40582afb16]
+link nitrogenhotel.db.dataaccessobjects to nitrogenhotel.db.exceptions.reservation--><path codeLine="23" d="M1636.17,113.01 C1783.95,128.35 2057.59,156.77 2208.39,172.43 " fill="none" id="nitrogenhotel.db.dataaccessobjects-to-nitrogenhotel.db.exceptions.reservation" style="stroke: #A80036; stroke-width: 1.0;"/><polygon fill="#A80036" points="2213.7,172.98,2205.1733,168.0509,2208.728,172.4514,2204.3275,176.006,2213.7,172.98" style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[0d517d54a2b75f75e3a7eb21a69c8b8d]
+link nitrogenhotel.db.dataaccessobjects to nitrogenhotel.db.exceptions.room--><path codeLine="24" d="M1473.13,113.01 C1383.45,128.24 1217.96,156.34 1125.31,172.07 " fill="none" id="nitrogenhotel.db.dataaccessobjects-to-nitrogenhotel.db.exceptions.room" style="stroke: #A80036; stroke-width: 1.0;"/><polygon fill="#A80036" points="1120.14,172.95,1129.6786,175.4025,1125.0708,172.1211,1128.3523,167.5133,1120.14,172.95" style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[4005bc7d38094f78be33a0d60b99f867]
+link nitrogenhotel.db.dataaccessobjects to nitrogenhotel.db.exceptions.reception--><path codeLine="25" d="M1640.19,110.9 C1649.26,111.61 1658.29,112.32 1667,113 C2016.29,140.22 2103.72,145.67 2453,173 C2456.84,173.3 2460.74,173.61 2464.68,173.92 " fill="none" id="nitrogenhotel.db.dataaccessobjects-to-nitrogenhotel.db.exceptions.reception" style="stroke: #A80036; stroke-width: 1.0;"/><polygon fill="#A80036" points="2469.69,174.31,2461.0253,169.6277,2464.7049,173.9243,2460.4083,177.6039,2469.69,174.31" style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[975aead27b3d9f0b21526e8432ee97cf]
+link nitrogenhotel.db.interfaces to nitrogenhotel.db.entries--><path codeLine="26" d="M1519.86,195.72 C1390.5,211.43 1144.42,241.31 1017.37,256.74 " fill="none" id="nitrogenhotel.db.interfaces-to-nitrogenhotel.db.entries" style="stroke: #A80036; stroke-width: 1.0;"/><polygon fill="#A80036" points="1012.15,257.37,1021.5644,260.2628,1017.114,256.7709,1020.6059,252.3204,1012.15,257.37" style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[ca631ba8af6f1225ceee0f5469d7b7d2]
+link nitrogenhotel.ui.utilsgui to com.github.lgooddatepicker.optionalusertools--><path codeLine="27" d="M558,196.01 C468.13,211.24 302.29,239.34 209.46,255.07 " fill="none" id="nitrogenhotel.ui.utilsgui-to-com.github.lgooddatepicker.optionalusertools" style="stroke: #A80036; stroke-width: 1.0;"/><polygon fill="#A80036" points="204.27,255.95,213.8086,258.4025,209.2008,255.1211,212.4823,250.5133,204.27,255.95" style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[e7b8dfbc13356ba15b6c7e7005d9e5d2]
+link nitrogenhotel.ui.utilsgui to com.github.lgooddatepicker.components--><path codeLine="28" d="M632.16,196.09 C648.73,210.52 678.44,236.4 696.86,252.45 " fill="none" id="nitrogenhotel.ui.utilsgui-to-com.github.lgooddatepicker.components" style="stroke: #A80036; stroke-width: 1.0;"/><polygon fill="#A80036" points="700.84,255.91,696.6816,246.9821,697.07,252.6256,691.4265,253.014,700.84,255.91" style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[d2feb67ae35ec346f9a2467e0e0d83d0]
+link nitrogenhotel.ui.utilsgui to nitrogenhotel.backend--><path codeLine="29" d="M648.11,172.97 C725.65,143.94 942.23,62.85 1025.14,31.8 " fill="none" id="nitrogenhotel.ui.utilsgui-to-nitrogenhotel.backend" style="stroke: #A80036; stroke-width: 1.0;"/><polygon fill="#A80036" points="1029.93,30.01,1020.0985,29.4248,1025.2484,31.7656,1022.9075,36.9154,1029.93,30.01" style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[eeceea3bac37f416b0604a4b54527589]
+link nitrogenhotel.ui.utilsgui to nitrogenhotel.db.entries--><path codeLine="30" d="M661.12,196.01 C720.18,211.1 828.73,238.84 890.6,254.64 " fill="none" id="nitrogenhotel.ui.utilsgui-to-nitrogenhotel.db.entries" style="stroke: #A80036; stroke-width: 1.0;"/><polygon fill="#A80036" points="895.7,255.95,887.9557,249.8652,890.8527,254.7239,885.9939,257.6209,895.7,255.95" style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[1052c4b641dad9d11af6ffda32301ee1]
+link nitrogenhotel.ui.utilsgui to com.github.lgooddatepicker.zinternaltools--><path codeLine="31" d="M596.21,196.09 C562.83,210.95 502.18,237.94 466.46,253.84 " fill="none" id="nitrogenhotel.ui.utilsgui-to-com.github.lgooddatepicker.zinternaltools" style="stroke: #A80036; stroke-width: 1.0;"/><polygon fill="#A80036" points="461.8,255.91,471.6489,255.9043,466.3679,253.8767,468.3955,248.5957,461.8,255.91" style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[53ef841764f97ae4909a283cb6f64858]
+link nitrogenhotel.ui.panels to nitrogenhotel.ui.utilsgui--><path codeLine="32" d="M563.5,113.09 C574.88,127.28 595.15,152.54 608.07,168.63 " fill="none" id="nitrogenhotel.ui.panels-to-nitrogenhotel.ui.utilsgui" style="stroke: #A80036; stroke-width: 1.0;"/><polygon fill="#A80036" points="611.5,172.91,608.9885,163.3868,608.3713,169.0098,602.7482,168.3927,611.5,172.91" style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[31ebdab9fcc82548f96feeab06bb5878]
+link nitrogenhotel.ui.panels to com.github.lgooddatepicker.optionalusertools--><path codeLine="34" d="M528.54,113.01 C455.63,141.96 252.07,222.79 173.5,253.99 " fill="none" id="nitrogenhotel.ui.panels-to-com.github.lgooddatepicker.optionalusertools" style="stroke: #A80036; stroke-width: 1.0;"/><polygon fill="#A80036" points="168.51,255.97,178.3508,256.3675,173.1573,254.1254,175.3994,248.9318,168.51,255.97" style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[0a6f6032ee44ef7eeb6aa507d4bbf1e8]
+link nitrogenhotel.ui.panels to com.github.lgooddatepicker.components--><path codeLine="35" d="M545.72,113.2 C530.98,131.54 505.66,169.59 524,196 C545.89,227.52 583.67,244.98 619.72,254.63 " fill="none" id="nitrogenhotel.ui.panels-to-com.github.lgooddatepicker.components" style="stroke: #A80036; stroke-width: 1.0;"/><polygon fill="#A80036" points="624.57,255.88,616.8468,249.7683,619.7269,254.6371,614.8582,257.5172,624.57,255.88" style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[a1b41f188d0ae488e6495d9caa349b86]
+link nitrogenhotel.ui.panels to com.github.lgooddatepicker.zinternaltools--><path codeLine="36" d="M534.22,113.07 C513.14,124.86 481.11,145.9 463,173 C446.96,197.01 441.19,230.91 439.13,250.61 " fill="none" id="nitrogenhotel.ui.panels-to-com.github.lgooddatepicker.zinternaltools" style="stroke: #A80036; stroke-width: 1.0;"/><polygon fill="#A80036" points="438.64,255.77,443.4718,247.1878,439.112,250.7923,435.5075,246.4326,438.64,255.77" style="stroke: #A80036; stroke-width: 1.0;"/><text fill="#888888" font-family="sans-serif" font-size="10" lengthAdjust="spacingAndGlyphs" textLength="180" x="1385" y="300.1781">UMLDoclet 2.0.12, PlantUML 1.2020.16</text><!--MD5=[2b1b414c649dbe2c5909c755d20d4eec]
+@startuml
+    set namespaceSeparator none
+    hide circle
+    hide empty fields
+    hide empty methods
+
+    nitrogenhotel.backend - -> nitrogenhotel.ui.panels
+    nitrogenhotel.backend - -> nitrogenhotel.ui.frames
+    nitrogenhotel.backend - -> com.github.lgooddatepicker.optionalusertools
+    nitrogenhotel.backend - -> nitrogenhotel.db.dataaccessobjects
+    nitrogenhotel.backend - -> nitrogenhotel.db.entries
+    nitrogenhotel.backend - -> nitrogenhotel.db.exceptions.room
+    nitrogenhotel.backend - -> nitrogenhotel.db.exceptions.customer
+    nitrogenhotel.backend - -> nitrogenhotel.db.exceptions.booking
+    nitrogenhotel.utils - -> nitrogenhotel.db.entries
+    nitrogenhotel.utils.config - -> org.tomlj
+    nitrogenhotel.db - -> nitrogenhotel.db.exceptions.databasemanager
+    nitrogenhotel.db.dataaccessobjects - -> nitrogenhotel.db.interfaces
+    nitrogenhotel.db.dataaccessobjects - -> nitrogenhotel.db.exceptions.admin
+    nitrogenhotel.db.dataaccessobjects - -> nitrogenhotel.db.entries
+    nitrogenhotel.db.dataaccessobjects - -> nitrogenhotel.db.exceptions.user
+    nitrogenhotel.db.dataaccessobjects - -> nitrogenhotel.db.exceptions.customer
+    nitrogenhotel.db.dataaccessobjects - -> nitrogenhotel.db.exceptions.booking
+    nitrogenhotel.db.dataaccessobjects - -> nitrogenhotel.db.exceptions.reservation
+    nitrogenhotel.db.dataaccessobjects - -> nitrogenhotel.db.exceptions.room
+    nitrogenhotel.db.dataaccessobjects - -> nitrogenhotel.db.exceptions.reception
+    nitrogenhotel.db.interfaces - -> nitrogenhotel.db.entries
+    nitrogenhotel.ui.utilsgui - -> com.github.lgooddatepicker.optionalusertools
+    nitrogenhotel.ui.utilsgui - -> com.github.lgooddatepicker.components
+    nitrogenhotel.ui.utilsgui - -> nitrogenhotel.backend
+    nitrogenhotel.ui.utilsgui - -> nitrogenhotel.db.entries
+    nitrogenhotel.ui.utilsgui - -> com.github.lgooddatepicker.zinternaltools
+    nitrogenhotel.ui.panels - -> nitrogenhotel.ui.utilsgui
+    nitrogenhotel.ui.panels - -> nitrogenhotel.backend
+    nitrogenhotel.ui.panels - -> com.github.lgooddatepicker.optionalusertools
+    nitrogenhotel.ui.panels - -> com.github.lgooddatepicker.components
+    nitrogenhotel.ui.panels - -> com.github.lgooddatepicker.zinternaltools
+    nitrogenhotel.ui.frames - -> nitrogenhotel.backend
+
+    ' Package links
+    class "nitrogenhotel.backend" [[nitrogenhotel/backend/package-summary.html]] {
+    }
+    class "nitrogenhotel.ui.panels" [[nitrogenhotel/ui/panels/package-summary.html]] {
+    }
+    class "nitrogenhotel.ui.frames" [[nitrogenhotel/ui/frames/package-summary.html]] {
+    }
+    class "nitrogenhotel.db.dataaccessobjects" [[nitrogenhotel/db/dataaccessobjects/package-summary.html]] {
+    }
+    class "nitrogenhotel.db.entries" [[nitrogenhotel/db/entries/package-summary.html]] {
+    }
+    class "nitrogenhotel.db.exceptions.room" [[nitrogenhotel/db/exceptions/room/package-summary.html]] {
+    }
+    class "nitrogenhotel.db.exceptions.customer" [[nitrogenhotel/db/exceptions/customer/package-summary.html]] {
+    }
+    class "nitrogenhotel.db.exceptions.booking" [[nitrogenhotel/db/exceptions/booking/package-summary.html]] {
+    }
+    class "nitrogenhotel.utils" [[nitrogenhotel/utils/package-summary.html]] {
+    }
+    class "nitrogenhotel.utils.config" [[nitrogenhotel/utils/config/package-summary.html]] {
+    }
+    class "nitrogenhotel.db" [[nitrogenhotel/db/package-summary.html]] {
+    }
+    class "nitrogenhotel.db.exceptions.databasemanager" [[nitrogenhotel/db/exceptions/databasemanager/package-summary.html]] {
+    }
+    class "nitrogenhotel.db.interfaces" [[nitrogenhotel/db/interfaces/package-summary.html]] {
+    }
+    class "nitrogenhotel.db.exceptions.admin" [[nitrogenhotel/db/exceptions/admin/package-summary.html]] {
+    }
+    class "nitrogenhotel.db.exceptions.user" [[nitrogenhotel/db/exceptions/user/package-summary.html]] {
+    }
+    class "nitrogenhotel.db.exceptions.reservation" [[nitrogenhotel/db/exceptions/reservation/package-summary.html]] {
+    }
+    class "nitrogenhotel.db.exceptions.reception" [[nitrogenhotel/db/exceptions/reception/package-summary.html]] {
+    }
+    class "nitrogenhotel.ui.utilsgui" [[nitrogenhotel/ui/utilsgui/package-summary.html]] {
+    }
+
+    center footer UMLDoclet 2.0.12, PlantUML 1.2020.16
+@enduml
+
+@startuml
+    set namespaceSeparator none
+    hide circle
+    hide empty fields
+    hide empty methods
+
+    nitrogenhotel.backend - -> nitrogenhotel.ui.panels
+    nitrogenhotel.backend - -> nitrogenhotel.ui.frames
+    nitrogenhotel.backend - -> com.github.lgooddatepicker.optionalusertools
+    nitrogenhotel.backend - -> nitrogenhotel.db.dataaccessobjects
+    nitrogenhotel.backend - -> nitrogenhotel.db.entries
+    nitrogenhotel.backend - -> nitrogenhotel.db.exceptions.room
+    nitrogenhotel.backend - -> nitrogenhotel.db.exceptions.customer
+    nitrogenhotel.backend - -> nitrogenhotel.db.exceptions.booking
+    nitrogenhotel.utils - -> nitrogenhotel.db.entries
+    nitrogenhotel.utils.config - -> org.tomlj
+    nitrogenhotel.db - -> nitrogenhotel.db.exceptions.databasemanager
+    nitrogenhotel.db.dataaccessobjects - -> nitrogenhotel.db.interfaces
+    nitrogenhotel.db.dataaccessobjects - -> nitrogenhotel.db.exceptions.admin
+    nitrogenhotel.db.dataaccessobjects - -> nitrogenhotel.db.entries
+    nitrogenhotel.db.dataaccessobjects - -> nitrogenhotel.db.exceptions.user
+    nitrogenhotel.db.dataaccessobjects - -> nitrogenhotel.db.exceptions.customer
+    nitrogenhotel.db.dataaccessobjects - -> nitrogenhotel.db.exceptions.booking
+    nitrogenhotel.db.dataaccessobjects - -> nitrogenhotel.db.exceptions.reservation
+    nitrogenhotel.db.dataaccessobjects - -> nitrogenhotel.db.exceptions.room
+    nitrogenhotel.db.dataaccessobjects - -> nitrogenhotel.db.exceptions.reception
+    nitrogenhotel.db.interfaces - -> nitrogenhotel.db.entries
+    nitrogenhotel.ui.utilsgui - -> com.github.lgooddatepicker.optionalusertools
+    nitrogenhotel.ui.utilsgui - -> com.github.lgooddatepicker.components
+    nitrogenhotel.ui.utilsgui - -> nitrogenhotel.backend
+    nitrogenhotel.ui.utilsgui - -> nitrogenhotel.db.entries
+    nitrogenhotel.ui.utilsgui - -> com.github.lgooddatepicker.zinternaltools
+    nitrogenhotel.ui.panels - -> nitrogenhotel.ui.utilsgui
+    nitrogenhotel.ui.panels - -> nitrogenhotel.backend
+    nitrogenhotel.ui.panels - -> com.github.lgooddatepicker.optionalusertools
+    nitrogenhotel.ui.panels - -> com.github.lgooddatepicker.components
+    nitrogenhotel.ui.panels - -> com.github.lgooddatepicker.zinternaltools
+    nitrogenhotel.ui.frames - -> nitrogenhotel.backend
+
+    class "nitrogenhotel.backend" [[nitrogenhotel/backend/package-summary.html]] {
+    }
+    class "nitrogenhotel.ui.panels" [[nitrogenhotel/ui/panels/package-summary.html]] {
+    }
+    class "nitrogenhotel.ui.frames" [[nitrogenhotel/ui/frames/package-summary.html]] {
+    }
+    class "nitrogenhotel.db.dataaccessobjects" [[nitrogenhotel/db/dataaccessobjects/package-summary.html]] {
+    }
+    class "nitrogenhotel.db.entries" [[nitrogenhotel/db/entries/package-summary.html]] {
+    }
+    class "nitrogenhotel.db.exceptions.room" [[nitrogenhotel/db/exceptions/room/package-summary.html]] {
+    }
+    class "nitrogenhotel.db.exceptions.customer" [[nitrogenhotel/db/exceptions/customer/package-summary.html]] {
+    }
+    class "nitrogenhotel.db.exceptions.booking" [[nitrogenhotel/db/exceptions/booking/package-summary.html]] {
+    }
+    class "nitrogenhotel.utils" [[nitrogenhotel/utils/package-summary.html]] {
+    }
+    class "nitrogenhotel.utils.config" [[nitrogenhotel/utils/config/package-summary.html]] {
+    }
+    class "nitrogenhotel.db" [[nitrogenhotel/db/package-summary.html]] {
+    }
+    class "nitrogenhotel.db.exceptions.databasemanager" [[nitrogenhotel/db/exceptions/databasemanager/package-summary.html]] {
+    }
+    class "nitrogenhotel.db.interfaces" [[nitrogenhotel/db/interfaces/package-summary.html]] {
+    }
+    class "nitrogenhotel.db.exceptions.admin" [[nitrogenhotel/db/exceptions/admin/package-summary.html]] {
+    }
+    class "nitrogenhotel.db.exceptions.user" [[nitrogenhotel/db/exceptions/user/package-summary.html]] {
+    }
+    class "nitrogenhotel.db.exceptions.reservation" [[nitrogenhotel/db/exceptions/reservation/package-summary.html]] {
+    }
+    class "nitrogenhotel.db.exceptions.reception" [[nitrogenhotel/db/exceptions/reception/package-summary.html]] {
+    }
+    class "nitrogenhotel.ui.utilsgui" [[nitrogenhotel/ui/utilsgui/package-summary.html]] {
+    }
+
+    center footer UMLDoclet 2.0.12, PlantUML 1.2020.16
+@enduml
+
+PlantUML version 1.2020.16(Sun Aug 23 23:20:43 EEST 2020)
+(APACHE source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Default Encoding: UTF-8
+Language: en
+Country: US
+--></g></svg>

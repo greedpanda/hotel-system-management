@@ -1,0 +1,125 @@
+plugins {
+    id 'java'
+    id 'checkstyle'
+    id 'com.github.spotbugs' version '4.6.0'
+    id 'be.vbgn.ci-detect' version '0.5.0'
+    id 'application'
+}
+
+configurations {
+    umlDoclet
+}
+
+// Test start
+// The testing parts outlined here is used with Tobbes CodeQualityTests. Adapted for re-use by
+// Tobbes code.
+spotbugsMain {
+    ignoreFailures = true
+    showStackTraces = false
+    reports {
+        html {
+            enabled = false
+            destination = file("$buildDir/reports/spotbugs/main/spotbugs.html")
+        }
+        xml {
+            enabled = true
+            destination = file("$buildDir/reports/spotbugs/spotbugs.xml")
+        }
+
+    }
+}
+
+spotbugsTest {
+    ignoreFailures = false
+    showStackTraces = false
+    enabled = false
+}
+
+checkstyle {
+    toolVersion = '8.38'
+    configFile = rootProject.file('google_checks.xml')
+    sourceSets = []
+}
+
+
+test {
+    dependsOn checkstyleMain
+    dependsOn spotbugsMain
+    systemProperty 'ciRunning', ci.isCi()
+
+    useJUnitPlatform()
+
+    testLogging {
+        outputs.upToDateWhen {false}
+        showStandardStreams = true
+    }
+}
+
+
+// Test End
+
+application {
+    mainClass = 'nitrogenhotel.Main'
+}
+
+group 'se.lnu'
+version '5.1.0-RELEASE'
+
+// JDK 15
+sourceCompatibility = 15
+targetCompatibility = 15
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    // https://mvnrepository.com/artifact/junit/junit
+    // CodeStyle - Junit 4 needed
+    testImplementation group: 'junit', name: 'junit', version: '4.12'
+    // Junit 5
+    testImplementation("org.junit.jupiter:junit-jupiter-api:5.3.2")
+    testRuntimeOnly("org.junit.jupiter:junit-jupiter-engine:5.3.2")
+    // Time
+    implementation 'org.threeten:threeten-extra:1.6.0'
+    implementation 'com.github.lgooddatepicker:LGoodDatePicker:11.2.1'
+    // Logging framework
+    implementation 'org.tinylog:tinylog-impl:2.3.0-M2'
+    implementation 'org.tinylog:tinylog-api:2.3.0-M2'
+    // https://mvnrepository.com/artifact/mysql/mysql-connector-java
+    implementation group: 'mysql', name: 'mysql-connector-java', version: '8.0.23'
+    implementation 'com.formdev:flatlaf-intellij-themes:1.1.1'
+    implementation 'com.formdev:flatlaf:1.1.2'
+
+    // https://mvnrepository.com/artifact/com.google.code.findbugs/annotations
+    implementation group: 'com.google.code.findbugs', name: 'annotations', version: '3.0.1'
+
+    testImplementation(platform("org.junit:junit-bom:5.7.1"))
+
+    testImplementation("org.junit.jupiter:junit-jupiter") {
+        because 'allows to write and run Jupiter tests'
+    }
+
+    testImplementation("junit:junit:4.13.2")
+    testRuntimeOnly("org.junit.vintage:junit-vintage-engine") {
+        because 'allows JUnit 3 and JUnit 4 tests to run'
+    }
+
+    testRuntimeOnly("org.junit.platform:junit-platform-launcher") {
+        because 'allows tests to run from IDEs that bundle older version of launcher'
+    }
+
+    // TOML
+    // https://mvnrepository.com/artifact/org.tomlj/tomlj
+    implementation 'org.tomlj:tomlj:1.0.0'
+
+    // Doc UML generation
+    umlDoclet "nl.talsmasoftware:umldoclet:2.0.12"
+}
+
+javadoc {
+    source = sourceSets.main.allJava
+    options.docletpath = configurations.umlDoclet.files.asType(List)
+    options.doclet = "nl.talsmasoftware.umldoclet.UMLDoclet"
+    // options.addStringOption "additionalParamName", "additionalParamValue"
+}

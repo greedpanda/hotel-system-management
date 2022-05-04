@@ -1,0 +1,47 @@
+# This is the Gradle build system for JVM applications
+# https://gradle.org/
+# https://github.com/gradle/gradle
+# Using explicitly gradle 6.8.1 with JDK 15.
+image: gradle:6.8.1-jdk15
+
+variables:
+  GRADLE_OPTS: "-Dorg.gradle.daemon=false"
+  MYSQL_DATABASE: NitrogenHotel
+  MYSQL_ROOT_PASSWORD: root
+
+before_script:
+  - export GRADLE_USER_HOME=`pwd`/.gradle
+
+services:
+  - mysql:latest
+
+stages:
+  - build
+  - test
+
+build:
+  stage: build
+  script: gradle --build-cache assemble
+  cache:
+    key: "$CI_COMMIT_REF_NAME"
+    policy: push
+    paths:
+      - build
+      - .gradle
+
+
+# Tobbe quality tests
+test:
+  stage: test
+  script: gradle test
+  cache:
+    key: "$CI_COMMIT_REF_NAME"
+    policy: pull
+    paths:
+      - build
+      - .gradle
+  artifacts:
+    reports:
+      junit:
+        - build/test-results/TEST-*.xml
+        - build/test-results/test/TEST-*.xml
